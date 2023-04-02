@@ -19,3 +19,6 @@ Our team was interested in the demographic of artists and dates of creation for 
   - [MoMA](https://github.com/MuseumofModernArt/collection#:~:text=7%20years%20ago-,Artists.csv,-Automatic%20monthly%20update)
   - [Tate](https://github.com/tategallery/collection#:~:text=2%20years%20ago-,artist_data.csv,-Oct%2014%20metadata)
   - [Block Museum](https://blockmuseum.emuseum.com/people https://blockmuseum.emuseum.com/objects/table?page=1)
+  
+## Contact
+Created by [Kenneth Yeon](https://www.linkedin.com/in/kennethyeon/)
