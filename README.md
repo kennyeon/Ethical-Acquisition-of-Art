@@ -10,6 +10,7 @@ Our team was interested in the demographic of artists and dates of creation for 
 ###### Within the repository you will be able to find the following:
 - Final Report
   - Presents a thorough breakdown of our findings and all the steps that led up to it
+  - Download the file to view it
 - Datasets
 
 ## Acknowledgements
